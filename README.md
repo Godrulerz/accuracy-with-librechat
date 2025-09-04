@@ -5,7 +5,7 @@
 
 *A comprehensive React dashboard for analyzing sports aiming accuracy with AI-powered coaching insights and interactive visualizations.*
 
-[🚀 Live Demo](http://localhost:5173) • [📖 Documentation](#documentation) • [🤖 AI Chat](#ai-coaching-assistant) • [📊 Features](#features)
+[🚀 Live Demo](https://accuracy-with-librechat.vercel.app/) • [📖 Documentation](#documentation) • [🤖 AI Chat](#ai-coaching-assistant) • [📊 Features](#features)
 
 </div>
 
